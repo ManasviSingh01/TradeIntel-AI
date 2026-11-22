@@ -1,0 +1,6 @@
+Commodity Market Brief - Demonstration Data
+Iron ore is a core raw material used in steelmaking. Procurement teams commonly monitor benchmark prices, grade specifications, freight, port availability, supplier reliability and delivery schedules when evaluating sourcing options. Price movements can be influenced by steel demand, mining output, inventory levels, logistics and macroeconomic conditions.
+
+Thermal coal procurement decisions may consider calorific value, ash, sulphur, moisture, origin, freight and delivery windows. Industrial buyers often compare landed cost rather than headline commodity price alone.
+
+In cross-border commodity trade, document review and information retrieval can be time-consuming because commercial teams work with market reports, supplier offers, specifications and internal notes. A grounded AI assistant can retrieve relevant passages before generating an answer, reducing reliance on unsupported model knowledge.

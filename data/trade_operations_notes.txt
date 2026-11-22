@@ -1,0 +1,4 @@
+Trade Operations Notes - Demonstration Data
+A typical commodity sourcing workflow can include requirement capture, supplier identification, specification comparison, commercial evaluation, approval, contracting, logistics coordination and post-delivery reconciliation. Important information should be traceable to its source document.
+
+For AI-assisted document analysis, responses should be evaluated for groundedness, relevance and completeness. Retrieval quality can be improved through document cleaning, chunk sizing, metadata and better query formulation. Production systems should also consider access control, privacy, latency, model cost and auditability.
